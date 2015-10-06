@@ -1,0 +1,798 @@
+SA,965,The Climate Sceptics,A,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,1
+SA,965,The Climate Sceptics,A,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,2
+SA,965,The Climate Sceptics,A,1,21991,B,ALDRIDGE,Mark,1,,,5
+SA,965,The Climate Sceptics,A,1,21992,B,COCHRANE,Christopher,2,,,6
+SA,965,The Climate Sceptics,A,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,37
+SA,965,The Climate Sceptics,A,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,38
+SA,965,The Climate Sceptics,A,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,39
+SA,965,The Climate Sceptics,A,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,33
+SA,965,The Climate Sceptics,A,1,20828,D,EDWARDS,Sean,2,LP,Liberal,34
+SA,965,The Climate Sceptics,A,1,20830,D,FAWCETT,David,3,LP,Liberal,35
+SA,965,The Climate Sceptics,A,1,20831,D,SALU,Peter,4,LP,Liberal,36
+SA,965,The Climate Sceptics,A,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,3
+SA,965,The Climate Sceptics,A,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,4
+SA,965,The Climate Sceptics,A,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,10
+SA,965,The Climate Sceptics,A,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,11
+SA,965,The Climate Sceptics,A,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,18
+SA,965,The Climate Sceptics,A,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,19
+SA,965,The Climate Sceptics,A,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,14
+SA,965,The Climate Sceptics,A,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,15
+SA,965,The Climate Sceptics,A,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,16
+SA,965,The Climate Sceptics,A,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,17
+SA,965,The Climate Sceptics,A,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,42
+SA,965,The Climate Sceptics,A,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,41
+SA,965,The Climate Sceptics,A,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,40
+SA,965,The Climate Sceptics,A,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,22
+SA,965,The Climate Sceptics,A,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,23
+SA,965,The Climate Sceptics,A,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,20
+SA,965,The Climate Sceptics,A,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,21
+SA,965,The Climate Sceptics,A,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,24
+SA,965,The Climate Sceptics,A,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,25
+SA,965,The Climate Sceptics,A,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,31
+SA,965,The Climate Sceptics,A,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,32
+SA,965,The Climate Sceptics,A,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,29
+SA,965,The Climate Sceptics,A,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,30
+SA,965,The Climate Sceptics,A,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),12
+SA,965,The Climate Sceptics,A,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),13
+SA,965,The Climate Sceptics,A,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,27
+SA,965,The Climate Sceptics,A,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,28
+SA,965,The Climate Sceptics,A,1,21186,R,DAY,Bob,1,FFP,Family First,7
+SA,965,The Climate Sceptics,A,1,21189,R,COLE,Andrew,2,FFP,Family First,8
+SA,965,The Climate Sceptics,A,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,9
+SA,965,The Climate Sceptics,A,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,26
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,5
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,6
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21991,B,ALDRIDGE,Mark,1,,,1
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21992,B,COCHRANE,Christopher,2,,,2
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,39
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,38
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,37
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,33
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,20828,D,EDWARDS,Sean,2,LP,Liberal,34
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,20830,D,FAWCETT,David,3,LP,Liberal,35
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,20831,D,SALU,Peter,4,LP,Liberal,36
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,16
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,17
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,31
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,32
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,14
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,15
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,3
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,4
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,29
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,30
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,42
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,41
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,40
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,27
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,28
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,21
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,22
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,7
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,8
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,23
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,24
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,25
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,26
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),9
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),10
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,11
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,12
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21186,R,DAY,Bob,1,FFP,Family First,18
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21189,R,COLE,Andrew,2,FFP,Family First,19
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,20
+SA,1007,"Unendorsed - ALDRIDGE, Mark",B,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,13
+SA,913,Australian Labor Party,C,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,32
+SA,913,Australian Labor Party,C,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,33
+SA,913,Australian Labor Party,C,1,21991,B,ALDRIDGE,Mark,1,,,22
+SA,913,Australian Labor Party,C,1,21992,B,COCHRANE,Christopher,2,,,23
+SA,913,Australian Labor Party,C,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,1
+SA,913,Australian Labor Party,C,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,2
+SA,913,Australian Labor Party,C,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,3
+SA,913,Australian Labor Party,C,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,36
+SA,913,Australian Labor Party,C,1,20828,D,EDWARDS,Sean,2,LP,Liberal,37
+SA,913,Australian Labor Party,C,1,20830,D,FAWCETT,David,3,LP,Liberal,38
+SA,913,Australian Labor Party,C,1,20831,D,SALU,Peter,4,LP,Liberal,39
+SA,913,Australian Labor Party,C,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,41
+SA,913,Australian Labor Party,C,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,42
+SA,913,Australian Labor Party,C,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,7
+SA,913,Australian Labor Party,C,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,8
+SA,913,Australian Labor Party,C,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,24
+SA,913,Australian Labor Party,C,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,25
+SA,913,Australian Labor Party,C,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,18
+SA,913,Australian Labor Party,C,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,19
+SA,913,Australian Labor Party,C,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,26
+SA,913,Australian Labor Party,C,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,27
+SA,913,Australian Labor Party,C,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,4
+SA,913,Australian Labor Party,C,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,5
+SA,913,Australian Labor Party,C,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,6
+SA,913,Australian Labor Party,C,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,16
+SA,913,Australian Labor Party,C,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,17
+SA,913,Australian Labor Party,C,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,20
+SA,913,Australian Labor Party,C,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,21
+SA,913,Australian Labor Party,C,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,14
+SA,913,Australian Labor Party,C,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,15
+SA,913,Australian Labor Party,C,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,28
+SA,913,Australian Labor Party,C,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,29
+SA,913,Australian Labor Party,C,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,30
+SA,913,Australian Labor Party,C,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,31
+SA,913,Australian Labor Party,C,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),9
+SA,913,Australian Labor Party,C,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),10
+SA,913,Australian Labor Party,C,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,34
+SA,913,Australian Labor Party,C,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,35
+SA,913,Australian Labor Party,C,1,21186,R,DAY,Bob,1,FFP,Family First,11
+SA,913,Australian Labor Party,C,1,21189,R,COLE,Andrew,2,FFP,Family First,12
+SA,913,Australian Labor Party,C,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,13
+SA,913,Australian Labor Party,C,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,40
+SA,892,Liberal,D,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,24
+SA,892,Liberal,D,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,25
+SA,892,Liberal,D,1,21991,B,ALDRIDGE,Mark,1,,,30
+SA,892,Liberal,D,1,21992,B,COCHRANE,Christopher,2,,,31
+SA,892,Liberal,D,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,35
+SA,892,Liberal,D,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,36
+SA,892,Liberal,D,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,37
+SA,892,Liberal,D,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,1
+SA,892,Liberal,D,1,20828,D,EDWARDS,Sean,2,LP,Liberal,2
+SA,892,Liberal,D,1,20830,D,FAWCETT,David,3,LP,Liberal,3
+SA,892,Liberal,D,1,20831,D,SALU,Peter,4,LP,Liberal,4
+SA,892,Liberal,D,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,41
+SA,892,Liberal,D,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,42
+SA,892,Liberal,D,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,16
+SA,892,Liberal,D,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,17
+SA,892,Liberal,D,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,8
+SA,892,Liberal,D,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,9
+SA,892,Liberal,D,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,14
+SA,892,Liberal,D,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,15
+SA,892,Liberal,D,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,22
+SA,892,Liberal,D,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,23
+SA,892,Liberal,D,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,32
+SA,892,Liberal,D,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,33
+SA,892,Liberal,D,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,34
+SA,892,Liberal,D,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,18
+SA,892,Liberal,D,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,19
+SA,892,Liberal,D,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,10
+SA,892,Liberal,D,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,11
+SA,892,Liberal,D,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,12
+SA,892,Liberal,D,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,13
+SA,892,Liberal,D,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,39
+SA,892,Liberal,D,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,40
+SA,892,Liberal,D,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,28
+SA,892,Liberal,D,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,29
+SA,892,Liberal,D,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),20
+SA,892,Liberal,D,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),21
+SA,892,Liberal,D,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,26
+SA,892,Liberal,D,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,27
+SA,892,Liberal,D,1,21186,R,DAY,Bob,1,FFP,Family First,5
+SA,892,Liberal,D,1,21189,R,COLE,Andrew,2,FFP,Family First,6
+SA,892,Liberal,D,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,7
+SA,892,Liberal,D,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,38
+SA,952,One Nation,E,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,3
+SA,952,One Nation,E,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,4
+SA,952,One Nation,E,1,21991,B,ALDRIDGE,Mark,1,,,16
+SA,952,One Nation,E,1,21992,B,COCHRANE,Christopher,2,,,29
+SA,952,One Nation,E,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,32
+SA,952,One Nation,E,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,33
+SA,952,One Nation,E,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,34
+SA,952,One Nation,E,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,19
+SA,952,One Nation,E,1,20828,D,EDWARDS,Sean,2,LP,Liberal,20
+SA,952,One Nation,E,1,20830,D,FAWCETT,David,3,LP,Liberal,21
+SA,952,One Nation,E,1,20831,D,SALU,Peter,4,LP,Liberal,22
+SA,952,One Nation,E,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,1
+SA,952,One Nation,E,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,2
+SA,952,One Nation,E,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,8
+SA,952,One Nation,E,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,9
+SA,952,One Nation,E,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,14
+SA,952,One Nation,E,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,15
+SA,952,One Nation,E,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,17
+SA,952,One Nation,E,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,18
+SA,952,One Nation,E,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,23
+SA,952,One Nation,E,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,24
+SA,952,One Nation,E,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,40
+SA,952,One Nation,E,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,41
+SA,952,One Nation,E,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,42
+SA,952,One Nation,E,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,25
+SA,952,One Nation,E,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,26
+SA,952,One Nation,E,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,10
+SA,952,One Nation,E,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,11
+SA,952,One Nation,E,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,27
+SA,952,One Nation,E,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,28
+SA,952,One Nation,E,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,35
+SA,952,One Nation,E,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,36
+SA,952,One Nation,E,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,30
+SA,952,One Nation,E,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,31
+SA,952,One Nation,E,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),12
+SA,952,One Nation,E,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),13
+SA,952,One Nation,E,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,37
+SA,952,One Nation,E,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,38
+SA,952,One Nation,E,1,21186,R,DAY,Bob,1,FFP,Family First,5
+SA,952,One Nation,E,1,21189,R,COLE,Andrew,2,FFP,Family First,6
+SA,952,One Nation,E,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,7
+SA,952,One Nation,E,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,39
+SA,996,D.L.P. - Democratic Labor Party,F,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,12
+SA,996,D.L.P. - Democratic Labor Party,F,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,13
+SA,996,D.L.P. - Democratic Labor Party,F,1,21991,B,ALDRIDGE,Mark,1,,,27
+SA,996,D.L.P. - Democratic Labor Party,F,1,21992,B,COCHRANE,Christopher,2,,,28
+SA,996,D.L.P. - Democratic Labor Party,F,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,24
+SA,996,D.L.P. - Democratic Labor Party,F,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,25
+SA,996,D.L.P. - Democratic Labor Party,F,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,26
+SA,996,D.L.P. - Democratic Labor Party,F,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,20
+SA,996,D.L.P. - Democratic Labor Party,F,1,20828,D,EDWARDS,Sean,2,LP,Liberal,21
+SA,996,D.L.P. - Democratic Labor Party,F,1,20830,D,FAWCETT,David,3,LP,Liberal,19
+SA,996,D.L.P. - Democratic Labor Party,F,1,20831,D,SALU,Peter,4,LP,Liberal,22
+SA,996,D.L.P. - Democratic Labor Party,F,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,14
+SA,996,D.L.P. - Democratic Labor Party,F,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,15
+SA,996,D.L.P. - Democratic Labor Party,F,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,1
+SA,996,D.L.P. - Democratic Labor Party,F,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,2
+SA,996,D.L.P. - Democratic Labor Party,F,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,3
+SA,996,D.L.P. - Democratic Labor Party,F,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,4
+SA,996,D.L.P. - Democratic Labor Party,F,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,10
+SA,996,D.L.P. - Democratic Labor Party,F,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,11
+SA,996,D.L.P. - Democratic Labor Party,F,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,30
+SA,996,D.L.P. - Democratic Labor Party,F,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,29
+SA,996,D.L.P. - Democratic Labor Party,F,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,42
+SA,996,D.L.P. - Democratic Labor Party,F,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,41
+SA,996,D.L.P. - Democratic Labor Party,F,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,40
+SA,996,D.L.P. - Democratic Labor Party,F,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,6
+SA,996,D.L.P. - Democratic Labor Party,F,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,7
+SA,996,D.L.P. - Democratic Labor Party,F,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,8
+SA,996,D.L.P. - Democratic Labor Party,F,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,9
+SA,996,D.L.P. - Democratic Labor Party,F,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,33
+SA,996,D.L.P. - Democratic Labor Party,F,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,32
+SA,996,D.L.P. - Democratic Labor Party,F,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,35
+SA,996,D.L.P. - Democratic Labor Party,F,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,34
+SA,996,D.L.P. - Democratic Labor Party,F,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,37
+SA,996,D.L.P. - Democratic Labor Party,F,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,36
+SA,996,D.L.P. - Democratic Labor Party,F,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),5
+SA,996,D.L.P. - Democratic Labor Party,F,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),23
+SA,996,D.L.P. - Democratic Labor Party,F,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,39
+SA,996,D.L.P. - Democratic Labor Party,F,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,38
+SA,996,D.L.P. - Democratic Labor Party,F,1,21186,R,DAY,Bob,1,FFP,Family First,16
+SA,996,D.L.P. - Democratic Labor Party,F,1,21189,R,COLE,Andrew,2,FFP,Family First,17
+SA,996,D.L.P. - Democratic Labor Party,F,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,18
+SA,996,D.L.P. - Democratic Labor Party,F,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,31
+SA,883,Christian Democratic Party,G,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,5
+SA,883,Christian Democratic Party,G,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,6
+SA,883,Christian Democratic Party,G,1,21991,B,ALDRIDGE,Mark,1,,,10
+SA,883,Christian Democratic Party,G,1,21992,B,COCHRANE,Christopher,2,,,11
+SA,883,Christian Democratic Party,G,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,28
+SA,883,Christian Democratic Party,G,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,29
+SA,883,Christian Democratic Party,G,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,30
+SA,883,Christian Democratic Party,G,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,20
+SA,883,Christian Democratic Party,G,1,20828,D,EDWARDS,Sean,2,LP,Liberal,21
+SA,883,Christian Democratic Party,G,1,20830,D,FAWCETT,David,3,LP,Liberal,22
+SA,883,Christian Democratic Party,G,1,20831,D,SALU,Peter,4,LP,Liberal,23
+SA,883,Christian Democratic Party,G,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,14
+SA,883,Christian Democratic Party,G,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,15
+SA,883,Christian Democratic Party,G,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,3
+SA,883,Christian Democratic Party,G,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,4
+SA,883,Christian Democratic Party,G,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,1
+SA,883,Christian Democratic Party,G,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,2
+SA,883,Christian Democratic Party,G,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,12
+SA,883,Christian Democratic Party,G,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,13
+SA,883,Christian Democratic Party,G,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,26
+SA,883,Christian Democratic Party,G,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,27
+SA,883,Christian Democratic Party,G,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,36
+SA,883,Christian Democratic Party,G,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,37
+SA,883,Christian Democratic Party,G,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,38
+SA,883,Christian Democratic Party,G,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,24
+SA,883,Christian Democratic Party,G,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,25
+SA,883,Christian Democratic Party,G,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,18
+SA,883,Christian Democratic Party,G,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,19
+SA,883,Christian Democratic Party,G,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,39
+SA,883,Christian Democratic Party,G,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,40
+SA,883,Christian Democratic Party,G,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,32
+SA,883,Christian Democratic Party,G,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,33
+SA,883,Christian Democratic Party,G,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,34
+SA,883,Christian Democratic Party,G,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,35
+SA,883,Christian Democratic Party,G,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),16
+SA,883,Christian Democratic Party,G,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),17
+SA,883,Christian Democratic Party,G,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,41
+SA,883,Christian Democratic Party,G,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,42
+SA,883,Christian Democratic Party,G,1,21186,R,DAY,Bob,1,FFP,Family First,7
+SA,883,Christian Democratic Party,G,1,21189,R,COLE,Andrew,2,FFP,Family First,8
+SA,883,Christian Democratic Party,G,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,9
+SA,883,Christian Democratic Party,G,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,31
+SA,1002,Carers Alliance,H,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,19
+SA,1002,Carers Alliance,H,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,20
+SA,1002,Carers Alliance,H,1,21991,B,ALDRIDGE,Mark,1,,,21
+SA,1002,Carers Alliance,H,1,21992,B,COCHRANE,Christopher,2,,,22
+SA,1002,Carers Alliance,H,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,11
+SA,1002,Carers Alliance,H,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,12
+SA,1002,Carers Alliance,H,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,13
+SA,1002,Carers Alliance,H,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,7
+SA,1002,Carers Alliance,H,1,20828,D,EDWARDS,Sean,2,LP,Liberal,8
+SA,1002,Carers Alliance,H,1,20830,D,FAWCETT,David,3,LP,Liberal,9
+SA,1002,Carers Alliance,H,1,20831,D,SALU,Peter,4,LP,Liberal,10
+SA,1002,Carers Alliance,H,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,23
+SA,1002,Carers Alliance,H,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,24
+SA,1002,Carers Alliance,H,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,25
+SA,1002,Carers Alliance,H,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,26
+SA,1002,Carers Alliance,H,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,27
+SA,1002,Carers Alliance,H,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,28
+SA,1002,Carers Alliance,H,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,1
+SA,1002,Carers Alliance,H,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,2
+SA,1002,Carers Alliance,H,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,5
+SA,1002,Carers Alliance,H,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,6
+SA,1002,Carers Alliance,H,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,14
+SA,1002,Carers Alliance,H,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,15
+SA,1002,Carers Alliance,H,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,16
+SA,1002,Carers Alliance,H,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,17
+SA,1002,Carers Alliance,H,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,18
+SA,1002,Carers Alliance,H,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,29
+SA,1002,Carers Alliance,H,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,30
+SA,1002,Carers Alliance,H,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,3
+SA,1002,Carers Alliance,H,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,4
+SA,1002,Carers Alliance,H,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,31
+SA,1002,Carers Alliance,H,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,32
+SA,1002,Carers Alliance,H,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,33
+SA,1002,Carers Alliance,H,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,34
+SA,1002,Carers Alliance,H,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),35
+SA,1002,Carers Alliance,H,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),36
+SA,1002,Carers Alliance,H,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,37
+SA,1002,Carers Alliance,H,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,38
+SA,1002,Carers Alliance,H,1,21186,R,DAY,Bob,1,FFP,Family First,39
+SA,1002,Carers Alliance,H,1,21189,R,COLE,Andrew,2,FFP,Family First,40
+SA,1002,Carers Alliance,H,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,41
+SA,1002,Carers Alliance,H,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,42
+SA,1002,Carers Alliance,H,2,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,14
+SA,1002,Carers Alliance,H,2,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,15
+SA,1002,Carers Alliance,H,2,21991,B,ALDRIDGE,Mark,1,,,16
+SA,1002,Carers Alliance,H,2,21992,B,COCHRANE,Christopher,2,,,17
+SA,1002,Carers Alliance,H,2,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,7
+SA,1002,Carers Alliance,H,2,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,8
+SA,1002,Carers Alliance,H,2,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,9
+SA,1002,Carers Alliance,H,2,20827,D,FISHER,Mary Jo,1,LP,Liberal,10
+SA,1002,Carers Alliance,H,2,20828,D,EDWARDS,Sean,2,LP,Liberal,11
+SA,1002,Carers Alliance,H,2,20830,D,FAWCETT,David,3,LP,Liberal,12
+SA,1002,Carers Alliance,H,2,20831,D,SALU,Peter,4,LP,Liberal,13
+SA,1002,Carers Alliance,H,2,21719,E,EDMONDS,Robert George,1,ON,One Nation,18
+SA,1002,Carers Alliance,H,2,21723,E,FITZPATRICK,Peter,2,ON,One Nation,19
+SA,1002,Carers Alliance,H,2,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,20
+SA,1002,Carers Alliance,H,2,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,21
+SA,1002,Carers Alliance,H,2,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,22
+SA,1002,Carers Alliance,H,2,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,23
+SA,1002,Carers Alliance,H,2,21976,H,CONNOR,Garry,1,CA,Carers Alliance,1
+SA,1002,Carers Alliance,H,2,21978,H,GROVES,Angela,2,CA,Carers Alliance,2
+SA,1002,Carers Alliance,H,2,21744,I,LANG,Simon,1,SOL,Senator On-Line,5
+SA,1002,Carers Alliance,H,2,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,6
+SA,1002,Carers Alliance,H,2,21785,J,WRIGHT,Penny,1,GRN,The Greens,24
+SA,1002,Carers Alliance,H,2,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,25
+SA,1002,Carers Alliance,H,2,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,26
+SA,1002,Carers Alliance,H,2,21970,K,ADAMS,Bill,1,BAP,Building Australia,27
+SA,1002,Carers Alliance,H,2,21971,K,JACKSON,Neil,2,BAP,Building Australia,28
+SA,1002,Carers Alliance,H,2,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,29
+SA,1002,Carers Alliance,H,2,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,30
+SA,1002,Carers Alliance,H,2,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,3
+SA,1002,Carers Alliance,H,2,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,4
+SA,1002,Carers Alliance,H,2,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,31
+SA,1002,Carers Alliance,H,2,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,32
+SA,1002,Carers Alliance,H,2,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,33
+SA,1002,Carers Alliance,H,2,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,34
+SA,1002,Carers Alliance,H,2,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),35
+SA,1002,Carers Alliance,H,2,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),36
+SA,1002,Carers Alliance,H,2,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,37
+SA,1002,Carers Alliance,H,2,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,38
+SA,1002,Carers Alliance,H,2,21186,R,DAY,Bob,1,FFP,Family First,39
+SA,1002,Carers Alliance,H,2,21189,R,COLE,Andrew,2,FFP,Family First,40
+SA,1002,Carers Alliance,H,2,21196,R,HENNESSEY,Thea,3,FFP,Family First,41
+SA,1002,Carers Alliance,H,2,21803,UG,DRUMMOND,Michelle,1,IND,Independent,42
+SA,961,Senator On-Line,I,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,11
+SA,961,Senator On-Line,I,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,12
+SA,961,Senator On-Line,I,1,21991,B,ALDRIDGE,Mark,1,,,31
+SA,961,Senator On-Line,I,1,21992,B,COCHRANE,Christopher,2,,,32
+SA,961,Senator On-Line,I,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,37
+SA,961,Senator On-Line,I,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,38
+SA,961,Senator On-Line,I,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,39
+SA,961,Senator On-Line,I,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,33
+SA,961,Senator On-Line,I,1,20828,D,EDWARDS,Sean,2,LP,Liberal,34
+SA,961,Senator On-Line,I,1,20830,D,FAWCETT,David,3,LP,Liberal,35
+SA,961,Senator On-Line,I,1,20831,D,SALU,Peter,4,LP,Liberal,36
+SA,961,Senator On-Line,I,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,28
+SA,961,Senator On-Line,I,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,29
+SA,961,Senator On-Line,I,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,18
+SA,961,Senator On-Line,I,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,19
+SA,961,Senator On-Line,I,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,20
+SA,961,Senator On-Line,I,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,21
+SA,961,Senator On-Line,I,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,5
+SA,961,Senator On-Line,I,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,6
+SA,961,Senator On-Line,I,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,1
+SA,961,Senator On-Line,I,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,2
+SA,961,Senator On-Line,I,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,40
+SA,961,Senator On-Line,I,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,41
+SA,961,Senator On-Line,I,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,42
+SA,961,Senator On-Line,I,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,9
+SA,961,Senator On-Line,I,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,10
+SA,961,Senator On-Line,I,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,26
+SA,961,Senator On-Line,I,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,27
+SA,961,Senator On-Line,I,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,3
+SA,961,Senator On-Line,I,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,4
+SA,961,Senator On-Line,I,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,24
+SA,961,Senator On-Line,I,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,25
+SA,961,Senator On-Line,I,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,22
+SA,961,Senator On-Line,I,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,23
+SA,961,Senator On-Line,I,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),7
+SA,961,Senator On-Line,I,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),8
+SA,961,Senator On-Line,I,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,13
+SA,961,Senator On-Line,I,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,14
+SA,961,Senator On-Line,I,1,21186,R,DAY,Bob,1,FFP,Family First,15
+SA,961,Senator On-Line,I,1,21189,R,COLE,Andrew,2,FFP,Family First,16
+SA,961,Senator On-Line,I,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,17
+SA,961,Senator On-Line,I,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,30
+SA,967,The Greens,J,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,41
+SA,967,The Greens,J,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,42
+SA,967,The Greens,J,1,21991,B,ALDRIDGE,Mark,1,,,26
+SA,967,The Greens,J,1,21992,B,COCHRANE,Christopher,2,,,27
+SA,967,The Greens,J,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,17
+SA,967,The Greens,J,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,18
+SA,967,The Greens,J,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,19
+SA,967,The Greens,J,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,20
+SA,967,The Greens,J,1,20828,D,EDWARDS,Sean,2,LP,Liberal,21
+SA,967,The Greens,J,1,20830,D,FAWCETT,David,3,LP,Liberal,22
+SA,967,The Greens,J,1,20831,D,SALU,Peter,4,LP,Liberal,23
+SA,967,The Greens,J,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,36
+SA,967,The Greens,J,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,37
+SA,967,The Greens,J,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,24
+SA,967,The Greens,J,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,25
+SA,967,The Greens,J,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,32
+SA,967,The Greens,J,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,33
+SA,967,The Greens,J,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,5
+SA,967,The Greens,J,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,6
+SA,967,The Greens,J,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,15
+SA,967,The Greens,J,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,16
+SA,967,The Greens,J,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,1
+SA,967,The Greens,J,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,2
+SA,967,The Greens,J,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,3
+SA,967,The Greens,J,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,28
+SA,967,The Greens,J,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,29
+SA,967,The Greens,J,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,34
+SA,967,The Greens,J,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,35
+SA,967,The Greens,J,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,7
+SA,967,The Greens,J,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,8
+SA,967,The Greens,J,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,9
+SA,967,The Greens,J,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,10
+SA,967,The Greens,J,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,11
+SA,967,The Greens,J,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,12
+SA,967,The Greens,J,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),30
+SA,967,The Greens,J,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),31
+SA,967,The Greens,J,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,13
+SA,967,The Greens,J,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,14
+SA,967,The Greens,J,1,21186,R,DAY,Bob,1,FFP,Family First,38
+SA,967,The Greens,J,1,21189,R,COLE,Andrew,2,FFP,Family First,39
+SA,967,The Greens,J,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,40
+SA,967,The Greens,J,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,4
+SA,1001,Building Australia,K,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,32
+SA,1001,Building Australia,K,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,33
+SA,1001,Building Australia,K,1,21991,B,ALDRIDGE,Mark,1,,,34
+SA,1001,Building Australia,K,1,21992,B,COCHRANE,Christopher,2,,,35
+SA,1001,Building Australia,K,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,18
+SA,1001,Building Australia,K,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,19
+SA,1001,Building Australia,K,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,20
+SA,1001,Building Australia,K,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,23
+SA,1001,Building Australia,K,1,20828,D,EDWARDS,Sean,2,LP,Liberal,24
+SA,1001,Building Australia,K,1,20830,D,FAWCETT,David,3,LP,Liberal,25
+SA,1001,Building Australia,K,1,20831,D,SALU,Peter,4,LP,Liberal,26
+SA,1001,Building Australia,K,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,27
+SA,1001,Building Australia,K,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,28
+SA,1001,Building Australia,K,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,3
+SA,1001,Building Australia,K,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,17
+SA,1001,Building Australia,K,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,21
+SA,1001,Building Australia,K,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,22
+SA,1001,Building Australia,K,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,6
+SA,1001,Building Australia,K,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,7
+SA,1001,Building Australia,K,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,8
+SA,1001,Building Australia,K,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,9
+SA,1001,Building Australia,K,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,29
+SA,1001,Building Australia,K,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,30
+SA,1001,Building Australia,K,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,31
+SA,1001,Building Australia,K,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,1
+SA,1001,Building Australia,K,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,2
+SA,1001,Building Australia,K,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,13
+SA,1001,Building Australia,K,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,14
+SA,1001,Building Australia,K,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,11
+SA,1001,Building Australia,K,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,12
+SA,1001,Building Australia,K,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,41
+SA,1001,Building Australia,K,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,42
+SA,1001,Building Australia,K,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,39
+SA,1001,Building Australia,K,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,40
+SA,1001,Building Australia,K,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),4
+SA,1001,Building Australia,K,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),10
+SA,1001,Building Australia,K,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,37
+SA,1001,Building Australia,K,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,38
+SA,1001,Building Australia,K,1,21186,R,DAY,Bob,1,FFP,Family First,5
+SA,1001,Building Australia,K,1,21189,R,COLE,Andrew,2,FFP,Family First,15
+SA,1001,Building Australia,K,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,16
+SA,1001,Building Australia,K,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,36
+SA,998,Shooters and Fishers,L,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,12
+SA,998,Shooters and Fishers,L,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,13
+SA,998,Shooters and Fishers,L,1,21991,B,ALDRIDGE,Mark,1,,,28
+SA,998,Shooters and Fishers,L,1,21992,B,COCHRANE,Christopher,2,,,29
+SA,998,Shooters and Fishers,L,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,36
+SA,998,Shooters and Fishers,L,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,37
+SA,998,Shooters and Fishers,L,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,38
+SA,998,Shooters and Fishers,L,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,8
+SA,998,Shooters and Fishers,L,1,20828,D,EDWARDS,Sean,2,LP,Liberal,9
+SA,998,Shooters and Fishers,L,1,20830,D,FAWCETT,David,3,LP,Liberal,10
+SA,998,Shooters and Fishers,L,1,20831,D,SALU,Peter,4,LP,Liberal,11
+SA,998,Shooters and Fishers,L,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,14
+SA,998,Shooters and Fishers,L,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,15
+SA,998,Shooters and Fishers,L,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,16
+SA,998,Shooters and Fishers,L,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,17
+SA,998,Shooters and Fishers,L,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,6
+SA,998,Shooters and Fishers,L,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,7
+SA,998,Shooters and Fishers,L,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,22
+SA,998,Shooters and Fishers,L,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,23
+SA,998,Shooters and Fishers,L,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,18
+SA,998,Shooters and Fishers,L,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,19
+SA,998,Shooters and Fishers,L,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,42
+SA,998,Shooters and Fishers,L,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,41
+SA,998,Shooters and Fishers,L,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,40
+SA,998,Shooters and Fishers,L,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,26
+SA,998,Shooters and Fishers,L,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,27
+SA,998,Shooters and Fishers,L,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,1
+SA,998,Shooters and Fishers,L,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,2
+SA,998,Shooters and Fishers,L,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,34
+SA,998,Shooters and Fishers,L,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,35
+SA,998,Shooters and Fishers,L,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,30
+SA,998,Shooters and Fishers,L,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,31
+SA,998,Shooters and Fishers,L,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,24
+SA,998,Shooters and Fishers,L,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,25
+SA,998,Shooters and Fishers,L,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),20
+SA,998,Shooters and Fishers,L,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),21
+SA,998,Shooters and Fishers,L,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,32
+SA,998,Shooters and Fishers,L,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,33
+SA,998,Shooters and Fishers,L,1,21186,R,DAY,Bob,1,FFP,Family First,3
+SA,998,Shooters and Fishers,L,1,21189,R,COLE,Andrew,2,FFP,Family First,4
+SA,998,Shooters and Fishers,L,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,5
+SA,998,Shooters and Fishers,L,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,39
+SA,1019,Australian Democrats,M,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,33
+SA,1019,Australian Democrats,M,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,34
+SA,1019,Australian Democrats,M,1,21991,B,ALDRIDGE,Mark,1,,,8
+SA,1019,Australian Democrats,M,1,21992,B,COCHRANE,Christopher,2,,,9
+SA,1019,Australian Democrats,M,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,19
+SA,1019,Australian Democrats,M,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,20
+SA,1019,Australian Democrats,M,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,12
+SA,1019,Australian Democrats,M,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,18
+SA,1019,Australian Democrats,M,1,20828,D,EDWARDS,Sean,2,LP,Liberal,21
+SA,1019,Australian Democrats,M,1,20830,D,FAWCETT,David,3,LP,Liberal,22
+SA,1019,Australian Democrats,M,1,20831,D,SALU,Peter,4,LP,Liberal,23
+SA,1019,Australian Democrats,M,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,26
+SA,1019,Australian Democrats,M,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,27
+SA,1019,Australian Democrats,M,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,31
+SA,1019,Australian Democrats,M,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,32
+SA,1019,Australian Democrats,M,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,37
+SA,1019,Australian Democrats,M,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,38
+SA,1019,Australian Democrats,M,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,13
+SA,1019,Australian Democrats,M,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,14
+SA,1019,Australian Democrats,M,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,3
+SA,1019,Australian Democrats,M,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,4
+SA,1019,Australian Democrats,M,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,15
+SA,1019,Australian Democrats,M,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,16
+SA,1019,Australian Democrats,M,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,17
+SA,1019,Australian Democrats,M,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,39
+SA,1019,Australian Democrats,M,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,40
+SA,1019,Australian Democrats,M,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,41
+SA,1019,Australian Democrats,M,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,42
+SA,1019,Australian Democrats,M,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,1
+SA,1019,Australian Democrats,M,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,2
+SA,1019,Australian Democrats,M,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,24
+SA,1019,Australian Democrats,M,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,25
+SA,1019,Australian Democrats,M,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,6
+SA,1019,Australian Democrats,M,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,7
+SA,1019,Australian Democrats,M,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),35
+SA,1019,Australian Democrats,M,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),36
+SA,1019,Australian Democrats,M,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,10
+SA,1019,Australian Democrats,M,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,11
+SA,1019,Australian Democrats,M,1,21186,R,DAY,Bob,1,FFP,Family First,28
+SA,1019,Australian Democrats,M,1,21189,R,COLE,Andrew,2,FFP,Family First,29
+SA,1019,Australian Democrats,M,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,30
+SA,1019,Australian Democrats,M,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,5
+SA,949,Socialist Alliance,N,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,32
+SA,949,Socialist Alliance,N,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,33
+SA,949,Socialist Alliance,N,1,21991,B,ALDRIDGE,Mark,1,,,34
+SA,949,Socialist Alliance,N,1,21992,B,COCHRANE,Christopher,2,,,35
+SA,949,Socialist Alliance,N,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,9
+SA,949,Socialist Alliance,N,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,10
+SA,949,Socialist Alliance,N,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,11
+SA,949,Socialist Alliance,N,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,20
+SA,949,Socialist Alliance,N,1,20828,D,EDWARDS,Sean,2,LP,Liberal,21
+SA,949,Socialist Alliance,N,1,20830,D,FAWCETT,David,3,LP,Liberal,22
+SA,949,Socialist Alliance,N,1,20831,D,SALU,Peter,4,LP,Liberal,23
+SA,949,Socialist Alliance,N,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,41
+SA,949,Socialist Alliance,N,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,42
+SA,949,Socialist Alliance,N,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,24
+SA,949,Socialist Alliance,N,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,25
+SA,949,Socialist Alliance,N,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,39
+SA,949,Socialist Alliance,N,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,40
+SA,949,Socialist Alliance,N,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,16
+SA,949,Socialist Alliance,N,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,17
+SA,949,Socialist Alliance,N,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,18
+SA,949,Socialist Alliance,N,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,19
+SA,949,Socialist Alliance,N,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,3
+SA,949,Socialist Alliance,N,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,4
+SA,949,Socialist Alliance,N,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,5
+SA,949,Socialist Alliance,N,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,30
+SA,949,Socialist Alliance,N,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,31
+SA,949,Socialist Alliance,N,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,28
+SA,949,Socialist Alliance,N,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,29
+SA,949,Socialist Alliance,N,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,14
+SA,949,Socialist Alliance,N,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,15
+SA,949,Socialist Alliance,N,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,1
+SA,949,Socialist Alliance,N,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,2
+SA,949,Socialist Alliance,N,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,12
+SA,949,Socialist Alliance,N,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,13
+SA,949,Socialist Alliance,N,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),26
+SA,949,Socialist Alliance,N,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),27
+SA,949,Socialist Alliance,N,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,7
+SA,949,Socialist Alliance,N,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,8
+SA,949,Socialist Alliance,N,1,21186,R,DAY,Bob,1,FFP,Family First,36
+SA,949,Socialist Alliance,N,1,21189,R,COLE,Andrew,2,FFP,Family First,37
+SA,949,Socialist Alliance,N,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,38
+SA,949,Socialist Alliance,N,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,6
+SA,957,Secular Party of Australia,O,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,28
+SA,957,Secular Party of Australia,O,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,29
+SA,957,Secular Party of Australia,O,1,21991,B,ALDRIDGE,Mark,1,,,32
+SA,957,Secular Party of Australia,O,1,21992,B,COCHRANE,Christopher,2,,,33
+SA,957,Secular Party of Australia,O,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,17
+SA,957,Secular Party of Australia,O,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,18
+SA,957,Secular Party of Australia,O,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,19
+SA,957,Secular Party of Australia,O,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,20
+SA,957,Secular Party of Australia,O,1,20828,D,EDWARDS,Sean,2,LP,Liberal,21
+SA,957,Secular Party of Australia,O,1,20830,D,FAWCETT,David,3,LP,Liberal,22
+SA,957,Secular Party of Australia,O,1,20831,D,SALU,Peter,4,LP,Liberal,23
+SA,957,Secular Party of Australia,O,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,34
+SA,957,Secular Party of Australia,O,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,35
+SA,957,Secular Party of Australia,O,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,36
+SA,957,Secular Party of Australia,O,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,37
+SA,957,Secular Party of Australia,O,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,38
+SA,957,Secular Party of Australia,O,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,39
+SA,957,Secular Party of Australia,O,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,12
+SA,957,Secular Party of Australia,O,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,13
+SA,957,Secular Party of Australia,O,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,15
+SA,957,Secular Party of Australia,O,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,16
+SA,957,Secular Party of Australia,O,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,7
+SA,957,Secular Party of Australia,O,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,8
+SA,957,Secular Party of Australia,O,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,9
+SA,957,Secular Party of Australia,O,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,26
+SA,957,Secular Party of Australia,O,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,27
+SA,957,Secular Party of Australia,O,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,30
+SA,957,Secular Party of Australia,O,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,31
+SA,957,Secular Party of Australia,O,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,3
+SA,957,Secular Party of Australia,O,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,4
+SA,957,Secular Party of Australia,O,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,24
+SA,957,Secular Party of Australia,O,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,25
+SA,957,Secular Party of Australia,O,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,1
+SA,957,Secular Party of Australia,O,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,2
+SA,957,Secular Party of Australia,O,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),10
+SA,957,Secular Party of Australia,O,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),11
+SA,957,Secular Party of Australia,O,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,5
+SA,957,Secular Party of Australia,O,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,6
+SA,957,Secular Party of Australia,O,1,21186,R,DAY,Bob,1,FFP,Family First,40
+SA,957,Secular Party of Australia,O,1,21189,R,COLE,Andrew,2,FFP,Family First,41
+SA,957,Secular Party of Australia,O,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,42
+SA,957,Secular Party of Australia,O,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,14
+SA,920,Liberal Democrats (LDP),P,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,3
+SA,920,Liberal Democrats (LDP),P,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,4
+SA,920,Liberal Democrats (LDP),P,1,21991,B,ALDRIDGE,Mark,1,,,5
+SA,920,Liberal Democrats (LDP),P,1,21992,B,COCHRANE,Christopher,2,,,6
+SA,920,Liberal Democrats (LDP),P,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,32
+SA,920,Liberal Democrats (LDP),P,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,33
+SA,920,Liberal Democrats (LDP),P,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,34
+SA,920,Liberal Democrats (LDP),P,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,23
+SA,920,Liberal Democrats (LDP),P,1,20828,D,EDWARDS,Sean,2,LP,Liberal,24
+SA,920,Liberal Democrats (LDP),P,1,20830,D,FAWCETT,David,3,LP,Liberal,35
+SA,920,Liberal Democrats (LDP),P,1,20831,D,SALU,Peter,4,LP,Liberal,36
+SA,920,Liberal Democrats (LDP),P,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,14
+SA,920,Liberal Democrats (LDP),P,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,15
+SA,920,Liberal Democrats (LDP),P,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,7
+SA,920,Liberal Democrats (LDP),P,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,8
+SA,920,Liberal Democrats (LDP),P,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,21
+SA,920,Liberal Democrats (LDP),P,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,22
+SA,920,Liberal Democrats (LDP),P,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,11
+SA,920,Liberal Democrats (LDP),P,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,12
+SA,920,Liberal Democrats (LDP),P,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,9
+SA,920,Liberal Democrats (LDP),P,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,10
+SA,920,Liberal Democrats (LDP),P,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,41
+SA,920,Liberal Democrats (LDP),P,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,40
+SA,920,Liberal Democrats (LDP),P,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,39
+SA,920,Liberal Democrats (LDP),P,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,16
+SA,920,Liberal Democrats (LDP),P,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,17
+SA,920,Liberal Democrats (LDP),P,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,18
+SA,920,Liberal Democrats (LDP),P,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,42
+SA,920,Liberal Democrats (LDP),P,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,25
+SA,920,Liberal Democrats (LDP),P,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,26
+SA,920,Liberal Democrats (LDP),P,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,38
+SA,920,Liberal Democrats (LDP),P,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,37
+SA,920,Liberal Democrats (LDP),P,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,19
+SA,920,Liberal Democrats (LDP),P,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,20
+SA,920,Liberal Democrats (LDP),P,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),1
+SA,920,Liberal Democrats (LDP),P,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),2
+SA,920,Liberal Democrats (LDP),P,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,30
+SA,920,Liberal Democrats (LDP),P,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,31
+SA,920,Liberal Democrats (LDP),P,1,21186,R,DAY,Bob,1,FFP,Family First,27
+SA,920,Liberal Democrats (LDP),P,1,21189,R,COLE,Andrew,2,FFP,Family First,28
+SA,920,Liberal Democrats (LDP),P,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,29
+SA,920,Liberal Democrats (LDP),P,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,13
+SA,969,Australian Sex Party,Q,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,32
+SA,969,Australian Sex Party,Q,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,31
+SA,969,Australian Sex Party,Q,1,21991,B,ALDRIDGE,Mark,1,,,23
+SA,969,Australian Sex Party,Q,1,21992,B,COCHRANE,Christopher,2,,,24
+SA,969,Australian Sex Party,Q,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,16
+SA,969,Australian Sex Party,Q,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,17
+SA,969,Australian Sex Party,Q,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,18
+SA,969,Australian Sex Party,Q,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,19
+SA,969,Australian Sex Party,Q,1,20828,D,EDWARDS,Sean,2,LP,Liberal,20
+SA,969,Australian Sex Party,Q,1,20830,D,FAWCETT,David,3,LP,Liberal,21
+SA,969,Australian Sex Party,Q,1,20831,D,SALU,Peter,4,LP,Liberal,22
+SA,969,Australian Sex Party,Q,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,37
+SA,969,Australian Sex Party,Q,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,36
+SA,969,Australian Sex Party,Q,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,34
+SA,969,Australian Sex Party,Q,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,33
+SA,969,Australian Sex Party,Q,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,38
+SA,969,Australian Sex Party,Q,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,39
+SA,969,Australian Sex Party,Q,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,7
+SA,969,Australian Sex Party,Q,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,8
+SA,969,Australian Sex Party,Q,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,11
+SA,969,Australian Sex Party,Q,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,12
+SA,969,Australian Sex Party,Q,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,13
+SA,969,Australian Sex Party,Q,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,14
+SA,969,Australian Sex Party,Q,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,15
+SA,969,Australian Sex Party,Q,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,30
+SA,969,Australian Sex Party,Q,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,29
+SA,969,Australian Sex Party,Q,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,28
+SA,969,Australian Sex Party,Q,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,27
+SA,969,Australian Sex Party,Q,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,9
+SA,969,Australian Sex Party,Q,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,10
+SA,969,Australian Sex Party,Q,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,25
+SA,969,Australian Sex Party,Q,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,26
+SA,969,Australian Sex Party,Q,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,3
+SA,969,Australian Sex Party,Q,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,4
+SA,969,Australian Sex Party,Q,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),5
+SA,969,Australian Sex Party,Q,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),6
+SA,969,Australian Sex Party,Q,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,1
+SA,969,Australian Sex Party,Q,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,2
+SA,969,Australian Sex Party,Q,1,21186,R,DAY,Bob,1,FFP,Family First,42
+SA,969,Australian Sex Party,Q,1,21189,R,COLE,Andrew,2,FFP,Family First,41
+SA,969,Australian Sex Party,Q,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,40
+SA,969,Australian Sex Party,Q,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,35
+SA,918,Family First,R,1,21777,A,ASHBY,Leon Neville,1,TCS,The Climate Sceptics,8
+SA,918,Family First,R,1,21778,A,ASHBY,Nathan,2,TCS,The Climate Sceptics,9
+SA,918,Family First,R,1,21991,B,ALDRIDGE,Mark,1,,,16
+SA,918,Family First,R,1,21992,B,COCHRANE,Christopher,2,,,17
+SA,918,Family First,R,1,21111,C,GALLACHER,Alex,1,ALP,Australian Labor Party,28
+SA,918,Family First,R,1,21174,C,McEWEN,Anne,2,ALP,Australian Labor Party,29
+SA,918,Family First,R,1,21177,C,WORTLEY,Dana,3,ALP,Australian Labor Party,30
+SA,918,Family First,R,1,20827,D,FISHER,Mary Jo,1,LP,Liberal,20
+SA,918,Family First,R,1,20828,D,EDWARDS,Sean,2,LP,Liberal,21
+SA,918,Family First,R,1,20830,D,FAWCETT,David,3,LP,Liberal,22
+SA,918,Family First,R,1,20831,D,SALU,Peter,4,LP,Liberal,23
+SA,918,Family First,R,1,21719,E,EDMONDS,Robert George,1,ON,One Nation,12
+SA,918,Family First,R,1,21723,E,FITZPATRICK,Peter,2,ON,One Nation,13
+SA,918,Family First,R,1,21933,F,RUSSELL,Paul,1,DLP,D.L.P. - Democratic Labor Party,4
+SA,918,Family First,R,1,21934,F,McCABE,David,2,DLP,D.L.P. - Democratic Labor Party,5
+SA,918,Family First,R,1,20819,G,STEPHEN,Joseph,1,CDP,Christian Democratic Party,10
+SA,918,Family First,R,1,20821,G,REVINK,Frank,2,CDP,Christian Democratic Party,11
+SA,918,Family First,R,1,21976,H,CONNOR,Garry,1,CA,Carers Alliance,18
+SA,918,Family First,R,1,21978,H,GROVES,Angela,2,CA,Carers Alliance,19
+SA,918,Family First,R,1,21744,I,LANG,Simon,1,SOL,Senator On-Line,24
+SA,918,Family First,R,1,21748,I,DAWSON,Jamie,2,SOL,Senator On-Line,25
+SA,918,Family First,R,1,21785,J,WRIGHT,Penny,1,GRN,The Greens,38
+SA,918,Family First,R,1,21788,J,MONTGOMERY,Sandy,2,GRN,The Greens,39
+SA,918,Family First,R,1,21791,J,MILLER,Jeremy John Scoular,3,GRN,The Greens,40
+SA,918,Family First,R,1,21970,K,ADAMS,Bill,1,BAP,Building Australia,14
+SA,918,Family First,R,1,21971,K,JACKSON,Neil,2,BAP,Building Australia,15
+SA,918,Family First,R,1,21946,L,LARSSON,Steve,1,ASP,Shooters and Fishers,6
+SA,918,Family First,R,1,21947,L,BORSAK,Robert,2,ASP,Shooters and Fishers,7
+SA,918,Family First,R,1,22027,M,WALKER,Jeanie,1,DEM,Australian Democrats,32
+SA,918,Family First,R,1,22028,M,CASTRIQUE,Andrew,2,DEM,Australian Democrats,33
+SA,918,Family First,R,1,21696,N,CLARKE,Renfrey,1,SAL,Socialist Alliance,34
+SA,918,Family First,R,1,21699,N,RATCLIFFE,Ruth,2,SAL,Socialist Alliance,35
+SA,918,Family First,R,1,21729,O,SHARRAD,Scott James,1,SPA,Secular Party of Australia,36
+SA,918,Family First,R,1,21731,O,CLARKE,Moira,2,SPA,Secular Party of Australia,37
+SA,918,Family First,R,1,21206,P,KERRY,Nick,1,LDP,Liberal Democrats (LDP),26
+SA,918,Family First,R,1,21209,P,CLARK,Megan,2,LDP,Liberal Democrats (LDP),27
+SA,918,Family First,R,1,21801,Q,REID,Ari,1,ASXP,Australian Sex Party,41
+SA,918,Family First,R,1,21802,Q,VIRGO,Jason,2,ASXP,Australian Sex Party,42
+SA,918,Family First,R,1,21186,R,DAY,Bob,1,FFP,Family First,1
+SA,918,Family First,R,1,21189,R,COLE,Andrew,2,FFP,Family First,2
+SA,918,Family First,R,1,21196,R,HENNESSEY,Thea,3,FFP,Family First,3
+SA,918,Family First,R,1,21803,UG,DRUMMOND,Michelle,1,IND,Independent,31

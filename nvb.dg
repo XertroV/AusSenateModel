@@ -1,0 +1,42 @@
+import '/votes/FirstPrefVote'
+import '/prefs/AECPreference'
+import '/random'
+
+party_ab = 'NVB'
+party_name = 'Neutral Voting Bloc'
+nvb_owner_id = 99999
+num_nvb_cands = 2
+name_prefix = '██NVB'
+
+gen_candidate_id = n -> str $ 199999-n
+
+# insert_nvb should insert the NVB into the preference structure.
+# primary_vote_ratio determines what % of people voted first preference for nvb
+# preferenced_always_as determines where in each party's preferences NVB is inserted
+#    - 3.1 seems safe as no major party gets more than 3 seats and that gives minor parties 1 pref before NVB in most cases
+insert_nvb = aec_pref_list vote_list primary_vote_ratio: 0.01 preferenced_always_as: 3.1 pc_yes: 100.0 half_participation: False max_pref: 20000000 ->
+  state_ab = head vote_list|>.state_ab
+  # 2 NVB candidates inserted at 3.1 and 3.2 or as appropriate
+
+  # NVB GVT add NVB cand.s
+  nvb_pref_list = list $ map (n -> AECPreference.from_simple state_ab nvb_owner_id party_ab '1' (gen_candidate_id n) (str n) name_prefix n owner_name: party_name) (range num_nvb_cands)
+
+  candidate_set = set $ map (p -> (p.candidate_id, p.candidate_surname, p.candidate_firstname)) aec_pref_list
+  gvt_length = len candidate_set
+  max_pref = min max_pref (gvt_length + 1)
+
+  # NVB GVT add everyone else
+  nvb_pref_list.extend $ list $ map ((n, p) -> AECPreference.from_simple state_ab nvb_owner_id party_ab '1' (p!!0) (p!!1) (p!!2) (n + num_nvb_cands)) $ enumerate $ candidate_set
+
+  # function to provide preference number
+  pref_no = n: 1 -> if
+    random.random! <= pc_yes / 100 => preferenced_always_as + 0.1 * n
+    half_participation             => max preferenced_always_as $ min max_pref $ (max_pref - preferenced_always_as) * random.random! + preferenced_always_as
+    otherwise                      => max_pref + 0.1 * n
+
+  # Add NVB cand.s to other GVTs
+  for n in range num_nvb_cands =>
+    nvb_pref_list.extend $ list $ map (t -> AECPreference.from_simple state_ab (t!!0) (t!!1) (t!!2) (gen_candidate_id n) (str n) name_prefix $ pref_no n: n) $ set $ map (p -> (p.owner_id, p.owner_ticket, p.ticket_no)) aec_pref_list
+
+  vote_list.append $ FirstPrefVote state_ab party_ab (int $ primary_vote_ratio * $ sum $ map (v -> v.votes) vote_list)
+  aec_pref_list.extend nvb_pref_list

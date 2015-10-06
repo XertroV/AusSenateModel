@@ -1,0 +1,45 @@
+# prefs.dg
+# This file defines the preference object.
+
+AECPreference = subclass object where
+  __init__ = self row ->
+    self.state                = row !! 0
+    self.owner_id             = row !! 1
+    self.owner_name           = row !! 2
+    self.owner_ticket         = row !! 3
+    self.ticket_no            = row !! 4
+    self.candidate_id         = str $ row !! 5  # this begins detailing the preference
+    self.candidate_ticket     = row !! 6
+    self.candidate_surname    = row !! 7
+    self.candidate_firstname  = row !! 8
+    self.ballot_position      = row !! 9
+    self.party_ab             = row !! 10
+    self.party_name           = row !! 11
+    self.preference_no        = row !! 12
+    None
+
+  from_simple = classmethod $ cls state owner_id owner_ticket ticket_no candidate_id surname firstname pref_no owner_name: '' ->
+    cls $ (state, owner_id, owner_name, owner_ticket, ticket_no, candidate_id, '', surname, firstname, '', '', '', pref_no)
+
+  __repr__ = self -> "<AECPreference %s>" % (self.owner_name,)
+
+Preference = subclass object where
+  __init__ = self owner_id ticket_no candidate_id preference_no ->
+    self.owner_id = owner_id            # unique for party,state combinations
+    self.ticket_no = ticket_no          # used if more than one ticket is recorded, eg NSW2013 HEMP
+    self.candidate_id = candidate_id    # candidate this preference is for
+    self.preference_no = float preference_no  # used to order candidates, float so we can insert NVB at 1.5
+    self.transfer_multiplyer = 1.0      # this allows votes to be reweighted when a candidate is elected
+    None
+
+  __lt__ = self other -> self.preference_no < other.preference_no
+  __eq__ = self other -> self.preference_no == other.preference_no
+  __gt__ = self other -> self.preference_no > other.preference_no
+  __hash__ = self -> hash self.as_tuple
+  __str__ = self -> str self.as_tuple
+  value = ~> @transfer_multiplyer
+  as_tuple = ~> (@owner_id, @ticket_no, @candidate_id, @preference_no)
+  
+  from_aec = classmethod $ cls p -> cls p.owner_id p.ticket_no p.candidate_id p.preference_no
+
+

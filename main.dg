@@ -1,0 +1,67 @@
+import '/sys'
+import '/csv'
+import '/counting_algorithm/run_election'
+import '/prefs/Preference'
+import '/prefs/AECPreference'
+import '/votes/FirstPrefVote'
+#import '/check/check_aec_pref_list'
+#import '/check/check_vote_list'
+import '/nvb/insert_nvb'
+import '/argparse'
+import '/cProfile'
+
+make_reader = csv_filename -> csv.reader $ open csv_filename newline: ''
+
+get_args = ->
+  parser = argparse.ArgumentParser description: "Simulate GVTs in the Australian Senate, with and without NVB"
+  parser.add_argument 'gvts' help: 'AEC format list of preferences/GVTs' type: str
+  parser.add_argument 'fst_pref_votes' help: 'AEC format csv of first preferences by party' type: str
+  parser.add_argument '--nvb' help: 'inserts NVB into simulation' action: 'store_true'
+  parser.add_argument '--pc-yes' help: 'specify percentage support for NVB, 10.0 would mean 90% of parties would preference NVB last, default: 100.0' type: float default: 100.0
+  parser.add_argument '--loop' help: 'set number of times to repeat experiment, default: 1' type: int default: 1
+  parser.add_argument '--summary' help: 'hide most detail and only provide election results' action: 'store_true'
+  parser.add_argument '--first-pref-ratio' help: 'set ratio of all first preference votes in favour of the NVB, default 0.01' type: float default: 0.01
+  parser.add_argument '--half-participation' help: 'Instead of last, non-participating parties preference the NVB randomly' action: 'store_true'
+  parser.add_argument '--profile' help: 'run profiler' action: 'store_true'
+  parser.add_argument '--sp' help: 'show preferencers when someone is elected' action: 'store_true'
+  parser.add_argument '--parties' help: 'show parties, not candidate names. unimplemented.' action: 'store_true'
+  # default is 3.1 as this is at least after every parties own candidates, and often one from another party
+  parser.add_argument '--min-preference' help: 'set a minimum on how early NVB will be preferenced. Equiv to numbering below the line in AEC elections; floats accepted, eg 3.5' type: float default: 3.1
+  parser.add_argument '--max-preference' help: 'set a maximum on how late the NVB will be preferenced.' type: float default: 200000000
+  parser.add_argument '--new-fpr-party-id' help: 'party id of party to alter fpr, eg 25203 for MEP, use with --new-fpr' type: str default: None
+  parser.add_argument '--new-fpr' help: 'set new fpr for some party, use with --new-fpr-party-id' type: str default: None
+  parser.parse_args!
+
+main = ->
+  args = get_args!
+  f = ->
+      pref_csv_filename = args.gvts
+      vote_csv_filename = args.fst_pref_votes
+      aec_pref_list_master = list $ map AECPreference $ make_reader pref_csv_filename
+      first_prefs_csv = if
+          args.new_fpr => map (v ->
+              v !! 2 == args.new_fpr_party_id => v !! 11 = args.new_fpr
+              v) $ make_reader vote_csv_filename
+          otherwise => make_reader vote_csv_filename
+      vote_list_master = list $ filter (v -> v.votes > 0) $ map FirstPrefVote.from_aec first_prefs_csv
+      for i in range args.loop =>
+          aec_pref_list = list $ aec_pref_list_master
+          vote_list = list $ vote_list_master
+          args.nvb => insert_nvb aec_pref_list vote_list pc_yes: args.pc_yes primary_vote_ratio: args.first_pref_ratio half_participation: args.half_participation preferenced_always_as: args.min_preference max_pref: args.max_preference
+          pref_set = set $ map Preference.from_aec $ aec_pref_list
+          state_group_map = dict $ map (p -> ((p.state, p.owner_ticket), p.owner_id)) aec_pref_list
+          vote_dist = dict $ map (v -> (state_group_map !! (v.state_ab, v.ticket), v.votes)) vote_list
+          candidate_id_name_map = dict $ map (p -> (p.candidate_id, p.candidate_firstname + ' ' + p.candidate_surname)) aec_pref_list
+          owner_id_map = dict $ map (p -> if (p.owner_name != '' => (p.owner_id, p.owner_name)) (otherwise => (None, None))) aec_pref_list
+          elected, remainder_votes = run_election pref_set vote_dist 6 cand_map: candidate_id_name_map summary: args.summary show_preferencers: args.sp owner_id_map: owner_id_map
+          print 'Elected:' (list $ enumerate $ list $ map (candidate_id -> candidate_id_name_map !! candidate_id) elected)
+          not args.summary => print 'Remainder:' (list $ map ((k,v) -> (candidate_id_name_map !! k, v)) remainder_votes.items!)
+  if
+      args.profile =>
+        p = cProfile.Profile!
+        p.enable!
+        f!
+        p.disable!
+        p.print_stats!
+      otherwise    => f!
+if __name__ == "__main__" => main!

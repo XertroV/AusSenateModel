@@ -1,0 +1,9 @@
+# hmm, these don't seem to work yet, they might alter the lists which would be bad
+
+check_pref_list = pref_list ->
+  1 = len $ set $ map (r -> r !! 0) pref_list  # check that all states are the same
+  pref_list
+
+check_vote_list = vote_list ->
+  1 = len $ set $ map (r -> r !! 0) vote_list  # check that all states are the same
+  vote_list
